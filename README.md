@@ -1,12 +1,8 @@
 # N-Queens Problem Solver
 
-The N-Queens problem, a classic example in combinatorial optimization and artificial
-intelligence, challenges us to place N queens on an N×N chessboard such that no two
-queens threaten each other. The complexity of the problem increases exponentially
-with N, making it a significant testbed for various AI algorithms focused on constraint
-satisfaction.
-In our project, we explored two primary computational approaches to solve the N-Queens
-problem: the Min-Conflict Heuristic and the Genetic Algorithm. These were selected over other methods like naive brute force, planning, and reinforcement learning approaches due to their suitability for handling the problem's constraints efficiently.
+The N-Queens problem, a classic example in combinatorial optimization and artificial intelligence, challenges us to place N queens on an N×N chessboard such that no two
+queens threaten each other. The complexity of the problem increases exponentially with N, making it a significant testbed for various AI algorithms focused on constraint satisfaction.
+In our project, we explored two primary computational approaches to solve the N-Queens problem: the Min-Conflict Heuristic and the Genetic Algorithm. These were selected over other methods like naive brute force, planning, and reinforcement learning approaches due to their suitability for handling the problem's constraints efficiently.
 
 Min-Conflict Heuristic:
 The Min-Conflict algorithm is a heuristic method that iteratively minimizes conflicts
@@ -25,7 +21,8 @@ Our results indicate that both algorithms are highly effective but exhibit diffe
 convergence to a solution with fewer computational resources for smaller to moderatesized boards. In contrast, the Genetic Algorithm stands out in its ability to handle
 larger problem sizes due to its evolutionary search mechanisms that effectively explore more extensive search spaces.
 
-![image](https://github.com/user-attachments/assets/d19fcea1-82d7-4ee4-a2a8-27f6ef78d80f)
+
+![image](https://github.com/user-attachments/assets/66544cb4-391c-4a32-bc17-46b8081a5d49)
 
 
 Critique and Potential Improvements:

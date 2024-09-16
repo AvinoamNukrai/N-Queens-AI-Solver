@@ -22,7 +22,7 @@ convergence to a solution with fewer computational resources for smaller to mode
 larger problem sizes due to its evolutionary search mechanisms that effectively explore more extensive search spaces. A glimpse to our results: 
 
 
-                            ![image](https://github.com/user-attachments/assets/66544cb4-391c-4a32-bc17-46b8081a5d49)
+![image](https://github.com/user-attachments/assets/66544cb4-391c-4a32-bc17-46b8081a5d49)
 
 
 Critique and Potential Improvements:

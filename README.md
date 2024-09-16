@@ -19,7 +19,7 @@ and maintaining solution quality with increasing N, highlighting its quality in 
 Results and Evaluation:
 Our results indicate that both algorithms are highly effective but exhibit different strengths depending on the scenario. The Min-Conflict Heuristic excels in rapid
 convergence to a solution with fewer computational resources for smaller to moderatesized boards. In contrast, the Genetic Algorithm stands out in its ability to handle
-larger problem sizes due to its evolutionary search mechanisms that effectively explore more extensive search spaces.
+larger problem sizes due to its evolutionary search mechanisms that effectively explore more extensive search spaces. A glimpse to our results: 
 
 
 ![image](https://github.com/user-attachments/assets/66544cb4-391c-4a32-bc17-46b8081a5d49)
